@@ -225,7 +225,7 @@ If you use this project in your research or work, please cite:
   author = {Mohamed Eldagla},
   title = {PowerPoint Gesture Control Assistant},
   year = {2024},
-  url = {https://github.com/yourusername/powerpoint-gesture-control}
+  url = {https://github.com/mohamed-eldagla/powerpoint-gesture-control}
 }
 ```
 
