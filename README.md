@@ -222,7 +222,7 @@ If you use this project in your research or work, please cite:
 
 ```bibtex
 @software{powerpoint_gesture_control,
-  author = {Your Name},
+  author = {Mohamed Eldagla},
   title = {PowerPoint Gesture Control Assistant},
   year = {2024},
   url = {https://github.com/yourusername/powerpoint-gesture-control}
