@@ -32,13 +32,6 @@ A sophisticated computer vision-based system that enables hands-free control of 
 - Visual feedback with real-time overlay
 - Logging system for debugging and monitoring
 
-## Screenshots
-
-*Add screenshots of your application here*
-
-## Demo
-
-*Add a demo video or GIF here*
 
 ## Requirements
 
@@ -122,7 +115,7 @@ This repository contains both **monolithic** and **modular** code structures:
 
 ### Quick Start (Monolithic)
 ```
-main.py                       # ✅ All-in-one file (1,260 lines) - Ready to run!
+main.py                       # All-in-one file (1,260 lines) - Ready to run!
 ```
 
 ### Professional Structure (Modular)
